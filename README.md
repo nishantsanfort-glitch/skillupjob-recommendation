@@ -1,6 +1,23 @@
-# Untitled
+# SkillUp Job Recommendation System 🚀
 
-A Pen created on CodePen.
+A skill-based job recommendation web app designed for students and beginners.
 
-Original URL: [https://codepen.io/Nishant-Saini-the-looper/pen/emzRBJj](https://codepen.io/Nishant-Saini-the-looper/pen/emzRBJj).
+## 🔥 Features
+- Search jobs by skill
+- Beginner-friendly UI
+- Clean HTML & CSS design
+- Mobile responsive
 
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+
+## 🌐 Live Demo
+(Coming Soon)
+
+## 📌 Original Design
+Inspired by a CodePen project.
+
+## 📄 License
+MIT License
